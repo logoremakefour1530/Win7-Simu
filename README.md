@@ -1,2 +1,3 @@
-# Win7-HTML
-网页化https://play.google.com/store/apps/details?id=com.visnalize.win7simu
+# Win7 Simu
+Website: https://logoremakefour1530.github.io/Win7-Simu
+Redirect: https://logoremakefour1530.github.io/lrfeditor1807-patch-1.html
